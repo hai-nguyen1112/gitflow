@@ -71,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 2. Created develop branch.
 3. Added new code to develop branch.
 4. In local feature branch "edit-readme", added line 4 to readme.
+5. In local feature branch "edit-readme", added line 5 to readme.
